@@ -152,6 +152,6 @@ jupyter notebook
 
 Aspiring Machine Learning / Data Analytics Professional
 
-GitHub: [Your GitHub Profile URL](https://github.com/)
+GitHub: https://github.com/JAYESH-PARDESHI
 
-LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/)
+LinkedIn: LInkedin.com/in/jayesh-pardeshi-57a825437/
